@@ -1,0 +1,1 @@
+# Klasifikasi-Pneumonia-Menggunakan-CNN-Berbasis-VGG16-dan-Aktivasi-Swish-
